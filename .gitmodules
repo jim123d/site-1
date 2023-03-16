@@ -25,4 +25,4 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/OMADA11/text.git
-	branch = main 
+	branch = master 
